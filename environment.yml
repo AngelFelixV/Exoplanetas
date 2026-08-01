@@ -1,0 +1,13 @@
+name: exoplanets-eda
+channels:
+  - defaults
+dependencies:
+  - python=3.11
+  - jupyter
+  - seaborn
+  - requests
+  - pandas
+  - matplotlib
+  - ipykernel
+  - scipy
+prefix: C:\Users\angel\anaconda3\envs\exoplanets-eda
